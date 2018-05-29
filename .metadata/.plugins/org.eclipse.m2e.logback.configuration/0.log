@@ -1,1 +1,19 @@
 2018-05-29 17:30:14,786 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-29 17:36:29,614 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/pom.xml
+2018-05-29 17:36:31,465 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.urjc:isi.travis:0.0.1-SNAPSHOT @ /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/pom.xml.
+2018-05-29 17:36:32,281 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /isi.travis/src/main/java
+2018-05-29 17:36:32,285 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /isi.travis/src/test/java
+2018-05-29 17:36:33,417 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-05-29 17:36:34,244 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:36:34,244 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:36:34,248 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:36:34,248 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
+2018-05-29 17:39:51,124 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.urjc:isi.travis:0.0.1-SNAPSHOT @ /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/pom.xml.
+2018-05-29 17:39:51,512 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:39:51,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:39:51,518 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:39:51,518 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
+2018-05-29 17:39:52,674 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:39:52,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:39:52,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:39:52,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
