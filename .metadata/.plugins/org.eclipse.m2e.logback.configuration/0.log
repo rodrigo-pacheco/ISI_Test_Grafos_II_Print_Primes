@@ -17,3 +17,15 @@
 2018-05-29 17:39:52,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
 2018-05-29 17:39:52,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-29 17:39:52,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
+2018-05-29 17:42:08,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:42:08,450 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:42:08,452 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:42:08,452 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
+2018-05-29 17:43:58,572 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:43:58,572 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:43:58,574 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:43:58,574 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
+2018-05-29 17:44:30,714 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:44:30,714 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/main/resources
+2018-05-29 17:44:30,716 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:44:30,716 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rodrigo/Documentos/DG_ITT_IAA/ING_SIT_INFORMACION/EJERCICIOS_PRUEBAS_BASADAS_EN_GRAFOS/EJERCICIO_2/isi.travis/src/test/resources
