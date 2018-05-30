@@ -35,7 +35,7 @@ public class PrintPrimesTest {
 	@Test
 	public void testEjercicio7Error() {
 		PrintPrimes.main(new String[] {"5"});
-		assertEquals("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 9\n", outContent.toString());
+		assertEquals("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 11\n", outContent.toString());
 	}
 	
 	@Test
