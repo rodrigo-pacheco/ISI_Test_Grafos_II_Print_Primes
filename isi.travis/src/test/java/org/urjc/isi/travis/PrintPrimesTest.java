@@ -27,5 +27,20 @@ public class PrintPrimesTest {
 		PrintPrimes.main(new String[] {"1"});
 		assertEquals("Prime: 2\n", outContent.toString());
 	}
-
+	
+	// Test Ejercicio 7: Para cubir todos los Primary Paths se puede dar un número alto a 
+	// la entrada para que el software ejecute todas las líneas del cógio y se cubran por tanto
+	// todos los nodos y edges
+	
+	@Test
+	public void testEjercicio7Error() {
+		PrintPrimes.main(new String[] {"5"});
+		assertEquals("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 11\n", outContent.toString());
+	}
+	
+	@Test
+	public void testEjercicio7Exito() {
+		PrintPrimes.main(new String[] {"5"});
+		assertEquals("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 9\n", outContent.toString());
+	}
 }
