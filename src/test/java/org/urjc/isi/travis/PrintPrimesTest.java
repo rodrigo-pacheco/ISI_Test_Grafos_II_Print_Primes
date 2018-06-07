@@ -1,5 +1,3 @@
-package org.urjc.isi.travis;
-
 import static org.junit.Assert.*;
 
 import java.io.ByteArrayOutputStream;
