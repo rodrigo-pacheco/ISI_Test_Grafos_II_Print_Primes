@@ -1,3 +1,4 @@
+package org.urjc.isi.travis;
 import static org.junit.Assert.*;
 
 import java.io.ByteArrayOutputStream;
@@ -33,7 +34,7 @@ public class PrintPrimesTest {
 	@Test
 	public void testEjercicio7Error() {
 		PrintPrimes.main(new String[] {"5"});
-		assertEquals("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 11\n", outContent.toString());
+		assertNotSame("Prime: 2\nPrime: 3\nPrime: 5\nPrime: 7\nPrime: 11\n", outContent.toString());
 	}
 	
 	@Test

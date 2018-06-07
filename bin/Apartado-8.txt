@@ -1,0 +1,5 @@
+Apartado 8.
+
+El código tiene un error, puesto que cuando ejecuto PrintPrimes 5 el resultado debería ser 2,3,5,7,11. Sin embargo, el resultado obtenido es 2,3,5,7,9. El 9 no es número primo.
+
+He detectado este error con el Test del ejercico 7 al recorrer los PrimaryPaths. He dejado 2 tests escritos. Uno de ellos pasa aunque no debería (el código tiene un error) y otro no pasa cuando sí debería pasar.

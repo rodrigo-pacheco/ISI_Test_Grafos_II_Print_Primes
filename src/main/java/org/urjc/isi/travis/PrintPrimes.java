@@ -1,3 +1,5 @@
+package org.urjc.isi.travis;
+
 // Introduction to Software Testing
 // Authors: Paul Ammann & Jeff Offutt
 // Chapter 7; page ??
